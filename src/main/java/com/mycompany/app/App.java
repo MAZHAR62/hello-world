@@ -1,7 +1,7 @@
 package com.mycompany.app;
 
 /**
- * Hello world! Just some text
+ * Hello world! 
  */
 public class App
 {
